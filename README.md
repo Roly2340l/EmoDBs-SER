@@ -1,6 +1,8 @@
 # EmoDSc-SER: Speech Emotion Recognition using CNNs
 
-This repository contains the implementation of a **Speech Emotion Recognition (SER)** system using a neural network architecture that combines 1D and 2D CNNs with an MLP (DNN) for classification. Below is a detailed explanation of the project structure, the steps involved, and how to reproduce the experiments.
+This repository contains the source code used in the paper **["A Combined CNN Architecture for Speech Emotion Recognition"](https://www.mdpi.com/1424-8220/24/17/5797)**, published in *Sensors*. The paper presents a neural network architecture that combines 1D and 2D CNNs with an MLP (DNN) for speech emotion recognition.
+
+Below is a detailed explanation of the project structure, the steps involved, and how to reproduce the experiments.
 
 ## Project Structure
 
